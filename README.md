@@ -13,7 +13,7 @@ multiple filters and automated processes to directly link supply and demand for 
 
 Team Members
 Toutsis Leonidas toutsis1814@gmail.com
-Fotinos Vasilisfotinosb@gmail.com 
+Fotinos Vasilis fotinosb@gmail.com 
 Mouzelis Nektarios nekmouzelis@gmail.com
 
 Project URL
